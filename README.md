@@ -53,7 +53,7 @@ Capture live network traffic using Wireshark to:
 ---
 
 ## 📂 Files
-- `network_capture.pcap`: Exported capture file containing the packet data.
+- `network_capture.pcappng`: Exported capture file containing the packet data.
 
 ---
 
